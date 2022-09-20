@@ -8,7 +8,6 @@ Hinweise:
 - Das Spiel ist evt. etwas laut. Pass mit der Laustärke auf!
 - Das Spiel lässt sich über die ESC-Taste jederzeit beenden
 - Benutz Laufzeit -> BEENDEN bitte nur dann, wenn ESC nicht funktioniert. Ansonsten lässt sich das Spiel notfalls über den Taskmanager schließen.
-- Sorry dafür, dass die Spieldateien so blöd auf dem Desktop rumliegen müssen. Du kannst die Dateien nach dem Spielen gerne verschieben oder löschen.
 
 Folgende Bugs sind mir bereits bekannt, melde sie mir bitte nicht:
 
