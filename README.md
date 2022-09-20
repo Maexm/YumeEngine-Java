@@ -1,14 +1,8 @@
 Installationsanleitung
 
-1. ZIP entpacken!
-2. Den "YUMEFiles" Ordner auf den Desktop kopieren!
-3. Die JAR-Datei "NewGeeemu" starten (am besten über cmd, damit ihr die Konsole sehen könnt. So können evt. auftretende Fehler besser gemeldet werden)!
-
-Für die, die wie ich nicht mit cmd umgehen können:
-```cmd
-cd Desktop
-java -jar NewGeeemu.jar
-```
+1. ZIP entpacken (YUMEFiles ZIP ist nicht im Repo eingechecked, deshalb bitte beim Autor anfragen!)
+2. `mvn install` ausführen
+2. `java -jar .\target\SuperGame-0.0.1-SNAPSHOT-jar-with-dependencies.jar` ausführen
 
 Hinweise:
 - Das Spiel ist evt. etwas laut. Pass mit der Laustärke auf!
